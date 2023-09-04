@@ -1,1 +1,1 @@
-Passionate about AI and deep learning. My repositories showcase CNNs, ETL pipelines, Django projects, and more, reflecting my commitment to advancing the world of artificial intelligence and data engineering.
+
